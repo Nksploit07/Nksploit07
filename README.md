@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS cloud<br>🎯 Goals: Be a good Problem-Solver <br>🎲 Fun fact: I play basketball and  online games</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS cloud<br>🎯 Goals: Be an effective problem solver <br>🎲 Fun fact: I play basketball and  online games</p>
 
 ###
 
